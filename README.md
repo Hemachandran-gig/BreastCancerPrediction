@@ -53,7 +53,7 @@ In the Jupyter Notebook, follow the step-by-step guide to train the breast cance
 We would like to thank the University of Wisconsin Hospitals for providing the Breast Cancer Wisconsin dataset, which has been instrumental in this research and Kaggle.
 
 ## Authors
-Boobalamurugan S
+Hemachandran A
 
 
 
