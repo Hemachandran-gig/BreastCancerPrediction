@@ -32,7 +32,7 @@ Clone this repository to your local machine:
 
 ```bash```
 
-git clone https://github.com/Boobalamurugan/CVIP-DataScience/tree/main/Phase_1_Project/BreastCancerPrediction
+git clone https://github.com/Hemachandranashokan/BreastCancerPrediction.git
 
 3. Navigate to the project directory:
 
